@@ -19,4 +19,9 @@ This project shows you how to build a simple trading bot using Python and a Movi
 This project is for educational purposes only. It is not financial advice. Always do your own research before investing.
 
 ---
+**Watch the full tutorial on YouTube:**  
+👉 Episode 1 - RSI Trading Bot : https://youtu.be/4jcVT56qSLo?si=V9zQfs_HW6c4ZGLH
+
+☕ **Support the channel** :
+Buy Me a Coffee: https://buymeacoffee.com/datageekismyname
 Happy Learning!
